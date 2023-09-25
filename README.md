@@ -24,14 +24,6 @@ Clone o repositório e abra a pasta no VSCode.
 git clone https://github.com/alexmontanha/confronto.git
 ```
 
-```rust
-cargo build
-```
-
-```rust
-cargo run
-```
-
 ### Rodando o código no Rust Playground
 
 Acesse o [Rust Playground](https://play.rust-lang.org/) e cole o código do arquivo [main.rs](https://github.com/alexmontanha/lista/blob/master/src/main.rs) na janela de edição.
